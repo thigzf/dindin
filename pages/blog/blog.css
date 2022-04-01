@@ -1,0 +1,85 @@
+.mais-conteudo {
+    display: flex;
+    padding: 48px 0px 89px 239px;
+}
+
+aside {
+    padding-top: 70px;
+}
+
+aside h1 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 47px;
+    line-height: 54px;
+
+    color: #009688;
+    width: 512px;
+    margin-bottom: 40px;
+
+}
+
+.mais-conteudo p {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+    width: 461px;
+
+}
+.conteudos{
+    background: #F6F6F6
+}
+
+.conteudo-container {
+    display: flex;
+    padding: 0;
+    gap: 130px;
+    
+}
+
+.conteudo-container h2 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+
+    color: #FF4081;
+    margin-bottom: 19px;
+    margin-top: 19px;
+
+}
+
+.conteudo-container p {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    width: 500px;
+
+    color: #000000;
+    padding-bottom: 100px;
+
+}
+
+.bloco {
+    width: 518px;
+    height: 259px;
+    background: #C4C4C4;
+}
+
+.teste{
+     border: 1px solid green;
+}

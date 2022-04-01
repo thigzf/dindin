@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+a {
+    text-decoration: none;
+    list-style: none
+}
+
+body {
+    overflow-x: hidden
+}
+
+section {
+    
+    max-width: 1440px;
+    padding: 0 130px;
+    margin: 0 auto;
+}
+.pb-20{
+    padding-bottom: 202px;
+}
+.mr-37{
+    margin-right: 37px;
+}
+
+.ml-76{
+    margin-left: 76px;
+}
+.pb-25{
+    padding-bottom: 250px;
+}

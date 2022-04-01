@@ -1,0 +1,76 @@
+.title-cursos,
+.card-cursos {
+    margin: 0;
+    padding: 0;
+}
+
+.title-cursos span{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #555555;
+    }
+
+.card-cursos {
+    display: flex;
+    margin-top: 95px;
+    
+}
+
+.title-cursos h1 {
+    margin-top: 81px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 69px;
+    text-transform: capitalize;
+    color: #FF4081;
+}
+.section-investimentos{
+    margin-left: 30px
+}
+
+.section-investimentos h2 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    color: #FF4081;
+    margin-bottom: 37px;
+
+}
+
+.section-investimentos p {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+
+}
+
+.section-investimentos a {
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    display: inline-block;
+    margin-top: 66px;
+    background: #419488;
+    border-radius: 62px;
+    padding: 15px 50px;
+}
+.line {
+    height: 5px;
+    background: #C4C4C4;
+    margin-top: 68px;
+}  

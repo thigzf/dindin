@@ -1,0 +1,77 @@
+header {
+    background-color: #2E948A;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px ;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+    
+}
+
+.header{
+    display: flex;
+    min-width: 1440px;
+    padding: 0 130px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+nav{
+    display: flex;
+    align-items: center;
+}
+
+.lista{
+    display:flex;
+    
+}
+.lista a{
+    margin-right: 42px;
+    color: #FDFDFD;
+    
+    
+}
+
+/* @media only screen and (min-width: 0px) {
+    header{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    header nav{
+    }
+
+    nav ul{
+        margin: 0 auto;
+    }
+
+    .primeira-sessao{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .educacao-financeira{
+        width: 100%;
+    }
+
+    .educacao-financeira h1{
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 19px;
+    }
+    .educacao-financeira p{
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 39px;
+    }
+    .educacao-financeira a{
+        text-align: center;
+        margin: 0 auto;
+    }
+
+   .imagem-sessao{
+
+   }
+    
+} */

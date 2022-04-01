@@ -1,0 +1,221 @@
+.primeira-sessao {
+    display: flex;
+    width: 100%;
+}
+
+.educacao-financeira {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 125px;
+}
+
+.educacao-financeira h1 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 69px;
+    color: #FF4081;
+    margin-bottom: 19px;
+}
+
+.educacao-financeira p {
+    margin-right: 65px;
+    margin-bottom: 38px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 31px;
+    color: #555555;
+}
+
+.educacao-financeira a {
+    padding: 8.5px 26px;
+    border: 2px solid #FF4081;
+    box-sizing: border-box;
+    border-radius: 62px;
+    color: #FF4081;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 31px;
+    color: #FF4081;
+    margin-right: 124px;
+
+}
+
+.imagem-sessao {
+    width: 50%;
+    padding: 135px 206px 66px 0px;
+}
+
+.container {
+    background: #F7F7F7;
+    gap: 134px;
+    padding: 109px 0px 119px 0px;
+    text-align: center;
+    display: flex;
+    justify-content: center
+}
+
+.card {
+    justify-content: center;
+}
+
+.card h3 {
+    margin-top: 45px;
+    margin-bottom: 23px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #FF4081;
+
+}
+
+.card p {
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+
+}
+
+.card a {
+    padding: 15px 50px;
+    margin-top: 26px;
+    display: inline-block;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #FF4081;
+    border-radius: 62px;
+}
+
+.card-sobre {
+    display: flex;
+}
+
+.container-sobre-section h2 {
+    margin-bottom: 78px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 50px;
+    color: #009688;
+}
+
+.card-sobre p {
+    text-align: justify;
+    width: 363px;
+    height: 70px;
+
+}
+
+.sobre-container {
+    display: flex;
+    gap: 200px;
+    margin-bottom: 85px;
+}
+
+.container-sobre-section {
+    padding: 120px 0px 100px 50px;
+}
+
+
+
+
+.flex-column {
+    margin-left: 27px;
+    padding-top: 10px;
+}
+
+.mais-conteudo {
+    padding: 91px 137px 53px 128px;
+    background:  #F7F7F7;
+
+}
+
+.mais-conteudo h2 {
+    margin-bottom: 73px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 43px;
+
+
+    color: #009688;
+
+}
+
+.mais-conteudo a {
+    display: inline-block;
+    padding: 10px 41px;
+    border: 2px solid #FF4081;
+    box-sizing: border-box;
+    border-radius: 62px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FF4081;
+    text-align: center;
+}
+
+.ver-posts {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.cards {
+    display: flex;
+    gap: 100px;
+    margin-bottom: 100px;
+}
+
+.card-conteudo h3 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 31px;
+
+    color: #009688;
+
+}
+
+.card-conteudo{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20.68px;
+
+    color: #000000;
+}
+
+.bloco {
+    width: 319px;
+    height: 193px;
+    background: #C4C4C4;
+    margin-bottom: 11px;
+}

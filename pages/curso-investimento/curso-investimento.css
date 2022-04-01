@@ -1,0 +1,68 @@
+.investimento-iniciantes {
+    display: flex;
+    padding: 93px 0px 81px 202px;
+}
+
+.videos {
+    background: #F6F6F6;
+}
+
+
+
+aside h1 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 63px;
+
+    color: #FF4081;
+    width: 512px;
+    height: 126px;
+    margin-bottom: 22px;
+}
+
+aside h2 {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+
+    color: #FF4081;
+
+}
+
+aside p {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+    width: 461px;
+    margin-top: 20px;
+}
+
+.video {
+    display: flex;
+    padding: 75px 0px 73px 0px;
+}
+
+.video p {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+}
+
+.line {
+    height: 3px;
+    background: #C4C4C4;
+}
